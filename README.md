@@ -48,7 +48,7 @@ int main() {
 }
 ```
 
-# Testing
+## Testing
 ```
 make
 ./test
